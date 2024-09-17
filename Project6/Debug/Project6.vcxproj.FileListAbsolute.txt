@@ -1,0 +1,2 @@
+C:\Users\pipe\Desktop\C++多线程\Project6\Debug\Project6.exe
+C:\Users\pipe\Desktop\C++Test\Project6\Debug\Project6.exe

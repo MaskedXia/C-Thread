@@ -1,0 +1,3 @@
+C:\Users\pipe\source\repos\project2\Debug\project2.exe
+C:\Users\pipe\Desktop\C++多线程\project2\Debug\project2.exe
+C:\Users\pipe\Desktop\C++Test\project2\Debug\project2.exe
