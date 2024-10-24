@@ -132,7 +132,7 @@ std::promise类模板
 某个线程赋值，从其他线程取值
 通过promise保存一个值，在将来某个时刻通过future绑定对象到这个promise来得到绑定的值
 
-part 5  
+part 5
 future_status 
 
 part 6
